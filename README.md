@@ -1,34 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List
+# VET CLINIC DATABASE
 
-> A simple to do list app that makes usr add a to do list item and remove them when completed 
+>This template should be used for database related projects at Microverse. Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
-## Built With
-
- Semantic HTML
-- HTML Forms
-
-- Css
-- positioning
-- PSuedo Classes
-- Flexbox
-
-Javascrpit
-
-- Dom Manipulation and `EventListner` with handler functions
-- Named and anonymous arrow functions
-- Arrays and Object
-- Array manipulation with, `forEach`
-- Localstorage API
-- JSON.Parse
-- JSON.Stringify
-- Javascript Classes and Methods
-
-- Css
-- positioning
-- PSuedo Classes
-- Flexb
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
@@ -36,6 +11,8 @@ Javascrpit
 ## Getting Started
 This repository includes files with plain SQL that can be used to recreate a database:
 
+
+## Built With
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
@@ -52,7 +29,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Clone the project
 
 ```bash
-git clone https://github.com/basitkorede/html-template.git
+git clone https://github.com/BasitKorede/vet-clinic.git
 
 ```
 
